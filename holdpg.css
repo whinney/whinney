@@ -1,0 +1,15 @@
+body {
+	background-color: red; }
+
+#pic {
+	background-color: red;
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	width: 20%;
+	}
+h1{ color: white;
+	font-size:74px;
+	position: absolute;
+	left: 28%;
+	top: 70%;}
